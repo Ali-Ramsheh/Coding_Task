@@ -358,7 +358,7 @@ def main():
     # Task 4: Plot GC content distribution per error rate
     plot_gc_per_error_rate(all_error_data=all_error_data)
 
-    # Task 6: Plot homopolymer ratios relative to sequence length per nucleotide per error rate
+    # Task 5: Plot homopolymer ratios relative to sequence length per nucleotide per error rate
     plot_homopolymer_ratios(all_error_data=all_error_data)
 
     # Task 6: Plot homopolymer positions per error rate per nucleotide
